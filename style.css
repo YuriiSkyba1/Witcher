@@ -2,7 +2,7 @@ body {
   font-family: "Cambriab";
   margin: 0;
   padding: 0;
-  background: url("/assets/Witcher.png") no-repeat;
+  background: url("assets/Witcher.png") no-repeat;
   background-size: cover;
   color: #ffffff;
   box-sizing: border-box;
@@ -11,7 +11,7 @@ body {
 
 @font-face {
   font-family: "Cambriab";
-  src: url("/Font/Cambira/cambriab.ttf") format("truetype");
+  src: url("Font/Cambira/cambriab.ttf") format("truetype");
   font-style: normal;
   font-weight: normal;
 }
@@ -165,7 +165,7 @@ h2 {
 
 @media only screen and (max-width: 768px) {
   body {
-    background: url("/assets/landing_page_test.png") no-repeat;
+    background: url("assets/landing_page_test.png") no-repeat;
     background-size: cover;
     color: #ffffff;
     box-sizing: border-box;
@@ -202,7 +202,7 @@ h2 {
 
 @media only screen and (max-width: 480px) {
   body {
-    background: url("/assets/small-bg.png") no-repeat;
+    background: url("assets/small-bg.png") no-repeat;
     background-size: cover;
     color: #ffffff;
     box-sizing: border-box;
